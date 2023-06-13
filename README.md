@@ -34,12 +34,8 @@ Po kliknutí na tzv. "Autocomplete suggestion" položku, Zobrazí detail obsahu 
     <td>carmela@sultrax.nhk</td>
   </tr>
   <tr>
-    <th>Meno</th>
-    <td>Carmela</td>
-  </tr>
-  <tr>
-    <th>Priezvisko</th>
-    <td>Shaffer</td>
+    <th>Meno a Priezvisko</th>
+    <td>Carmela Shaffer</td>
   </tr>
   <tr>
     <th>Dátum narodenia</th>
