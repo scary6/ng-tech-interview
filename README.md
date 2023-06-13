@@ -1,5 +1,5 @@
 # Angular Tech Interview
-### Vitajte na technickom interview uchádzača o pozíciu Angular Developer.
+### Vitajte na technickom interview uchádzača o pozíciu Angular Developer
 
 Prosíme, aby ste pri vypracovaní zadania používali git repozitár, a pravidelne commitovali jednotlivé hotové alebo rozpracované logické časti kódu.
 
@@ -11,7 +11,7 @@ Po tomto commite nasledujú ďalšie v tomto prípade už commity týkajúce sa 
 Vytvorte komponent, ktorý bude obsahovať vstup (input typu text), a bude sledovať validitu vstupnej hodnoty. Prosím použite prístup `Reactive form`.
 
 ### Vzor pre validný vstup:
-Formát: (`okres OO (2 znaky)` zhodný s jedným so zdroju `resources/districts.json`), `číslo 0-9 (3 znaky) CCC`), `písmeno (2 znaky) PP`)
+Formát: (`okres OO (2 znaky)` zhodný s jedným zo zdroju `resources/districts.json`), `číslo 0-9 (3 znaky) CCC`), `písmeno (2 znaky) PP`)
 teda `OOCCCPP` [BN737CG].
 
 ### Stavy
