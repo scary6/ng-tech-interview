@@ -30,12 +30,12 @@ Po kliknutí na tzv. "Autocomplete suggestion" položku, Zobrazí detail obsahu 
 
 <table>
   <tr>
-    <th>Email</th>
-    <td>carmela@sultrax.nhk</td>
-  </tr>
-  <tr>
     <th>Meno a Priezvisko</th>
     <td>Carmela Shaffer</td>
+  </tr>
+  <tr>
+    <th>Email</th>
+    <td>carmela@sultrax.nhk</td>
   </tr>
   <tr>
     <th>Dátum narodenia</th>
