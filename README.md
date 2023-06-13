@@ -30,7 +30,7 @@ Po kliknutí na tzv. "Autocomplete suggestion" položku, Zobrazí detail obsahu 
 
 <table>
   <tr>
-    <th>Meno a Priezvisko</th>
+    <th>Meno a priezvisko</th>
     <td>Carmela Shaffer</td>
   </tr>
   <tr>
