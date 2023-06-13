@@ -47,6 +47,6 @@ Po kliknutí na tzv. "Autocomplete suggestion" položku, Zobrazí detail obsahu 
   </tr>
   <tr>
     <th>Spoločnosť</th>
-    <td>Carmela</td>
+    <td>Sultrax</td>
   </tr>
 </table>
